@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File C:\Users\Administrator\Desktop\FrozenMedia.ps1
